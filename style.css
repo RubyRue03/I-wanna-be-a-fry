@@ -5,6 +5,6 @@ span {
     -moz-transition: all 0, 2s ease;
     -o-transition: all 0, 2s ease;
     -ms-transition: all 0, 2s ease;
-    transition: all 0, 2s, ease;
+    transition: all 0, 2s ease;
   -webkit-filter: drop-shadow(3px 3px 10px purple);
 }
